@@ -4,6 +4,18 @@ body{
 background-color: mediumaquamarine;
      }
      
+     #logo ul{
+          overflow: hidden;
+     }
+     
+     #logo ul {
+          float: left;
+          list-style-type: none;
+     }
+     
+     #logo img{
+          width: 100px;
+     }
      .breadcrumbs li{
           display: inline;
           list-style-type: none;
